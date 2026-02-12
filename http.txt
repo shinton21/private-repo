@@ -1,1 +1,4 @@
 HTTP push
+git send-pack --stateless-rpc --helper-status --thin --progress https://github.com/shinton21/private-repo.git/ --stdin
+C:\Users\SeanHinton\AppData\Local\Programs\Git\mingw64\bin\git.exe clone https://github.com/shinton21/private-repo.git
+git remote-https origin https://github.com/shinton21/private-repo.git
